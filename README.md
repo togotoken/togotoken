@@ -1,4 +1,9 @@
-### Hi there 👋
+### Togo to Moon Mission!
+### Togo Token ($TOGO) is a community-focused meme token, decentralized cryptocurrency with instant rewards for holders.
+### Contract: https://bscscan.com/token/0x137133674417f98c86e141cba5e0d235ce406cc4
+### Website: https://www.togotoken.net
+
+
 
 <!--
 **togotoken/togotoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
